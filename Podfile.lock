@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.6.0)
+  - JSONJoy-Swift (3.0.3)
+  - SVProgressHUD (2.2.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JSONJoy-Swift
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  JSONJoy-Swift: 01a29108143d3c994f7f64d7c9a393699478c49b
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: ae5a3baa89e9d3f222efb90c6218e326eaae07c0
+
+COCOAPODS: 1.4.0
